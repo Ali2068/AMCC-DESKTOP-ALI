@@ -44,27 +44,27 @@
 #     print ("Selamat Sore...")
 # salam2()
 
-# def suhu(temp):
-#     if (temp <= 7):
-#         return ("Cold")
-#     elif (temp > 7):
-#         return ("Hot")
-# x = int(input('Suhu hari ini adalah : '))
-# print("Suhu hari ini : ", suhu(x))
-# suhu(x)
+def suhu(temp):
+    if (temp <= 7):
+        return ("Cold")
+    elif (temp > 7):
+        return ("Hot")
+x = int(input('Suhu hari ini adalah : '))
+print("Suhu hari ini : ", suhu(x))
+suhu(x)
 
-def tambah(angka1,angka2):
-    return angka1 + angka2
+# def tambah(angka1,angka2):
+#     return angka1 + angka2
 
-for i in range(10):
-    print("Hasil ", tambah(i,i+4))
+# for i in range(10):
+#     print("Hasil ", tambah(i,i+4))
 
 # def jarak(temp):
 #     return temp / 1000
 # x = int(input('Panjang jalan dalam m: '))
 # print("Hasil ", jarak(x))
-from math import sqrt
-def mulai(x):
-    return sqrt(x)
-angka = int(input('Akar dari : '))
-print("Hasilnya adalah :", sqrt(angka))
+# from math import sqrt
+# def mulai(x):
+#     return sqrt(x)
+# angka = int(input('Akar dari : '))
+# print("Hasilnya adalah :", sqrt(angka))
