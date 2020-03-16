@@ -1,0 +1,7 @@
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.csprojAssemblyReference.cache
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.csproj.CoreCompileInputs.cache
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\TheSuperComputer.exe.config
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\TheSuperComputer.exe
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\bin\Debug\TheSuperComputer.pdb
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.exe
+C:\Users\angga\source\repos\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.pdb
